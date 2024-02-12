@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ruby Devs",
+    "url": "https://rubyteam.tech/",
+    "description": "A development team that makes TurboWarp and PenguinMod extensions!"
+  },
+  {
+    "name": "Vetero | Web edition (currently down...)",
+    "url": "https://vetero.is-cool.dev/",
+    "description": "Weather data, with spice."
+  },
+  {
+    "name": "Vetero | Terminal edition",
+    "url": "https://www.npmjs.com/package/vetero-cmd/",
+    "description": "Weather data, with spice, but in the terminal. (requires node.js and npm)"
+  }
+]
